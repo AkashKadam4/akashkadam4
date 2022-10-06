@@ -36,6 +36,3 @@ Here are some ideas to get you started:
 ![Akashkadam's github stats] https://github.com/akashkadam346/akashkadam346/commit/927edfeb471a862abd8cdf207e9de3260680e5af
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkadam346&show_icons=true&locale=en&layout=compact" alt="akashkadam346" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkadam346&show_icons=true&locale=en" alt="akashkadam346" /></p>
