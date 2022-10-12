@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/akash-kadam-29578016a/">
   <img align="left" alt="Akashkadam LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/iamakash_kadam/">
+<a href="https://www.instagram.com/akashh_kadam_/">
   <img align="left" alt="Akashkadam Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
