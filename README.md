@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a Fresher;
 - 🌱 I’m currently learning Data science and data analytics, SQL, Python;
-- 🤔 I’m looking for help Data science and Analytics😢;
-- 💬 Ask me about anything, I am happy to help;
+- 👯 I’m looking to collaborate on Data Science and Data Analyst Project.
+- 💬 Ask me about Data Science and Data Analyst, I am happy to help you and I will give my best to reach you out!
 - 📫 How to reach me: akash346kadam@gmail.com;
 
 <h3 align="left">Connect with me:</h3>
