@@ -1,3 +1,5 @@
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=akashkadam4 alt=akashkadam4/> </p>
+
 ### Hi there 👋
 
 --I'm [Akashkadam!](https://github.com/akashkadam4) 
