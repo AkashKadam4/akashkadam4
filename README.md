@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Science and Data Analyst Project.
 - 💬 Ask me about Data Science and Data Analyst, I am happy to help you and I will give my best to reach you out!
 - 📫 How to reach me,Here is my Email ID:- akash346kadam@gmail.com;
-- 📱 You can also DM me on <a href="https://www.instagram.com/akashh_kadam_/">
-  <img align="left" alt="Akashkadam Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+- 📱 You can also DM me on:-<a href="https://www.instagram.com/akashh_kadam_/">
+                             <img align="left" alt="Akashkadam Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+                             </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
