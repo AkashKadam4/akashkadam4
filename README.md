@@ -1,6 +1,6 @@
 ### Hi there 👋
 
---I'm [Akashkadam!](https://github.com/akashkadam346) 
+--I'm [Akashkadam!](https://github.com/akashkadam4) 
 <a href="https://twitter.com/IamAKASHKadam">
   <img align="left" alt="Akashkadam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - 📱 You can also DM me on:-<a href="https://www.instagram.com/akashh_kadam_/">
                              <img align="left" alt="Akashkadam Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
                              </a>
+                             <br />
+                             <br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
