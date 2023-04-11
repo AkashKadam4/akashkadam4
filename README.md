@@ -20,7 +20,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently a Fresher;
-- 🌱 I’m currently learning Data science and data analytics, SQL, Python,Excel 2019,Power BI,Tablue,MySQL,R Programming;
+- 🌱 I’m Completing Data science and data analytics course, SQL, Python,Excel 2019,Power BI,Tablue,MySQL,R Programming;
 - 👯 I’m looking to collaborate on Data Science and Data Analyst Project.
 - 💬 Ask me about Data Science and Data Analyst, I am happy to help you and I will give my best to reach you out!
 - 📫 How to reach me,Here is my Email ID:- akash346kadam@gmail.com;
